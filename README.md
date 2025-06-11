@@ -10,7 +10,7 @@ This is a simple and responsive personal portfolio website built using HTML and 
 - Responsive and modern design
 - Navigation bar across all pages
 - Portfolio showcase page
-- Contact form (static)
+- Contact Page
 - Resume PDF download/view section
 
 ---
