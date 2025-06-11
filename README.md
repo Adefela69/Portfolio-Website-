@@ -29,21 +29,8 @@ This is a simple and responsive personal portfolio website built using HTML and 
     git clone https://github.com/your-username/portfolio-website.git
     ```
 
-2. **Navigate into the folder**:
-    ```bash
-    cd portfolio-website
-    ```
+2. **Open `Index.html` in your browser** to get started.
 
-3. **Open `Index.html` in your browser** to get started.
-
----
-
-## 🌐 Live Demo
-
-If deployed online, add your link here:
-```
-[View Live](https://your-portfolio-link.com)
-```
 
 ---
 
